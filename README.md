@@ -4,3 +4,4 @@ This repository contains Python code to process chest congestion XRay analysis f
 TODO- 
 - Add Code
 - Add Dataset
+- Design Pipeline
